@@ -1,6 +1,6 @@
 # 📊 Telecom Customer Churn Prediction & Web App
 
-An end-to-end Machine Learning project designed to predict customer churn in the telecommunications industry. This repository covers the complete workflow—from exploratory data analysis and class imbalance handling to automated hyperparameter optimization using Optuna and interactive web app deployment via Streamlit.
+An end-to-end Machine Learning project designed to predict customer churn in the telecommunications industry. This repository covers the complete workflow from exploratory data analysis and class imbalance handling to automated hyperparameter optimization using Optuna and interactive web app deployment via Streamlit.
 
 ---
 
